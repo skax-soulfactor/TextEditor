@@ -1,0 +1,14 @@
+<resources>
+    <color name="editor_background">#FFFFFF</color>
+    <color name="editor_text">#1E1E1E</color>
+
+    <color name="syntax_json_key">#7C4DFF</color>
+    <color name="syntax_json_string">#2E7D32</color>
+    <color name="syntax_json_number">#1565C0</color>
+    <color name="syntax_json_boolean">#EF6C00</color>
+
+    <color name="syntax_xml_tag">#0D47A1</color>
+    <color name="syntax_xml_attr_name">#6A1B9A</color>
+    <color name="syntax_xml_attr_value">#2E7D32</color>
+    <color name="syntax_xml_comment">#757575</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="editor_hint">Enter text here…</string>
+    <string-array name="file_types">
+        <item>TXT</item>
+        <item>JSON</item>
+        <item>XML</item>
+    </string-array>
+</resources>
